@@ -1,7 +1,7 @@
 {
   "name": "myproject",
   "version": "0.1.0",
-  "homepage": "https://Pooria-as.github.io",
+  "homepage": "https://Pooria-as.github.io/test/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
